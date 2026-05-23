@@ -1,0 +1,17 @@
+{
+  "password_reset": [
+    "I forgot my password",
+    "How can I reset my password?",
+    "Password reset issue"
+  ],
+  "software_install": [
+    "Install new software",
+    "Need software installation",
+    "How to install application"
+  ],
+  "network_issue": [
+    "Internet not working",
+    "Network issue",
+    "WiFi problem"
+  ]
+}
